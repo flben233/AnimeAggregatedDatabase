@@ -1,0 +1,301 @@
+{
+  "comedy": [
+    "comedy",
+    "action comedy",
+    "romantic comedy",
+    "verbal comedy",
+    "surreal comedy",
+    "nonsense-comedy",
+    "adventure comedy",
+    "dark comedy",
+    "slice of life comedy",
+    "horror comedy",
+    "crime fiction comedy"
+  ],
+  "love": [
+    "love triangle",
+    "love polygon",
+    "unrequited love",
+    "harem",
+    "romance",
+    "mature romance",
+    "romance of the three kingdoms"
+  ],
+  "fantasy": [
+    "fantasy",
+    "contemporary fantasy",
+    "urban fantasy",
+    "fantasy world",
+    "dark fantasy",
+    "epic fantasy",
+    "high fantasy",
+    "swords & co"
+  ],
+  "action": [
+    "action",
+    "action drama",
+    "action game"
+  ],
+  "present": [
+    "present",
+    "alternative present"
+  ],
+  "kids": [
+    "kids",
+    "kodomo"
+  ],
+  "adventure": [
+    "adventure"
+  ],
+  "drama": [
+    "drama",
+    "supernatural drama",
+    "psychological drama",
+    "slice of life drama",
+    "sentimental drama",
+    "picture drama",
+    "romantic drama",
+    "political drama"
+  ],
+  "based on a manga": [
+    "based on a manga",
+    "manga",
+    "based on a 4-koma manga",
+    "4-koma manga",
+    "manga & doujinshi",
+    "manga industry",
+    "based on a webtoon",
+    "based on a picture book",
+    "based on a comic book",
+    "manhua",
+    "4-koma",
+    "4-koma manhwa",
+    "manhwa"
+  ],
+  "music": [
+    "music",
+    "rock music",
+    "music school",
+    "classical music",
+    "musical",
+    "musical band",
+    "band"
+  ],
+  "shounen": [
+    "shounen",
+    "fighting-shounen"
+  ],
+  "sci-fi": [
+    "sci-fi",
+    "sci fi",
+    "science fiction",
+    "science-fiction"
+  ],
+  "family friendly": [
+    "family friendly",
+    "family life",
+    "found family",
+    "family"
+  ],
+  "school": [
+    "school",
+    "school life",
+    "high school",
+    "school club",
+    "school girl",
+    "school clubs",
+    "middle school",
+    "elementary school",
+    "all-girls school",
+    "all girls school",
+    "magic school",
+    "boarding school",
+    "all-boys school",
+    "military school",
+    "art school",
+    "newly co-ed school",
+    "monster school",
+    "catholic school",
+    "culinary school",
+    "martial arts school",
+    "college",
+    "music school",
+    "university"
+  ],
+  "magic": [
+    "magic"
+  ],
+  "historical": [
+    "historical"
+  ],
+  "mecha": [
+    "mecha",
+    "transforming mecha",
+    "combining mecha",
+    "sentient mecha",
+    "robots",
+    "robots & android",
+    "real robots",
+    "robots & androids",
+    "piloted robot",
+    "real robot",
+    "robot",
+    "robot helper",
+    "android"
+  ],
+  "tragedy": [
+    "tragedy"
+  ],
+  "hentai": [
+    "hentai"
+  ],
+  "alternative world": [
+    "alternative world",
+    "person in a strange world",
+    "alternate universe",
+    "parallel universe",
+    "virtual world",
+    "parallel world"
+  ],
+  "sports": [
+    "sports",
+    "team sports",
+    "combat sports",
+    "water sports",
+    "winter sports",
+    "racing",
+    "street racing",
+    "horse racing",
+    "formula racing",
+    "baseball",
+    "watersports",
+    "swimming",
+    "team sport",
+    "cycle sport",
+    "motorsport",
+    "motorcycles",
+    "football",
+    "association football",
+    "american football",
+    "basketball",
+    "tennis",
+    "table tennis"
+  ],
+  "psychological": [
+    "psychological"
+  ],
+  "based on a novel": [
+    "novel",
+    "based on a light novel",
+    "based on a novel",
+    "based on a visual novel",
+    "visual novel",
+    "based on a web novel"
+  ],
+  "space": [
+    "space",
+    "outer space",
+    "space opera",
+    "space travel",
+    "space battles",
+    "space pirates"
+  ],
+  "idol": [
+    "idol",
+    "idols",
+    "idols (female)",
+    "idols (male)"
+  ],
+  "yuri": [
+    "yuri",
+    "shoujo ai",
+    "shoujo-ai",
+    "girls love",
+    "girls' love",
+    "gl"
+  ],
+  "shoujo": [
+    "shoujo"
+  ],
+  "harem": [
+    "harem"
+  ],
+  "reverse harem": [
+    "reverse harem"
+  ],
+  "horror": [
+    "horror",
+    "body horror",
+    "cosmic horror",
+    "thriller",
+    "espionage thriller",
+    "political thriller"
+  ],
+  "chibi": [
+    "chibi"
+  ],
+  "educational": [
+    "educational"
+  ],
+  "daily life": [
+    "daily life",
+    "working life",
+    "married life",
+    "apartment life",
+    "slow life"
+  ],
+  "vocaloid": [
+    "vocaloid"
+  ],
+  "future": [
+    "future"
+  ],
+  "boys love": [
+    "shounen ai",
+    "shounen-ai",
+    "boys' love",
+    "boys love",
+    "bl"
+  ],
+  "detective": [
+    "detective",
+    "detectives"
+  ],
+  "moe": [
+    "moe",
+    "loli"
+  ],
+  "philosophy": [
+    "philosophy"
+  ],
+  "politics": [
+    "politics",
+    "political drama",
+    "political thriller",
+    "political",
+    "politician"
+  ],
+  "rpg": [
+    "rpg"
+  ],
+  "iyashikei": [
+    "iyashikei"
+  ],
+  "food": [
+    "food",
+    "food and beverage",
+    "food protagonists",
+    "food preparation"
+  ],
+  "dancing": [
+    "dancing",
+    "pole dancing",
+    "ballet dancing"
+  ],
+  "survival": [
+    "survival"
+  ],
+  "based on an eroge": [
+    "based on an eroge"
+  ]
+}
